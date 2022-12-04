@@ -1,3 +1,11 @@
+Learning summary:
+
+- stacks
+  - The data structure provides the ability to verify the correct order of the varying types of brackets
+  - push() and pop() were effective methods in manipulating the stack to confirm if the brackets were correctly nested/ordered
+
+----------------------------------------------------------------
+
 Problem description:
 
 Given a string s containing just the characters '(', ')', '{', '}', '[' and ']', determine if the input string is valid.
@@ -15,10 +23,3 @@ Constraints:
 
 1 <= s.length <= 104
 s consists of parentheses only '()[]{}'.
-
-
-What I learned:
-
-- stacks
-  - The data structure provides the ability to verify the correct order of the varying types of brackets
-  - push() and pop() were effective methods in manipulating the stack to confirm if the brackets were correctly nested/ordered
