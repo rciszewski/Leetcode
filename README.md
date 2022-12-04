@@ -1,3 +1,3 @@
 # Leetcode
 
-Storing the code and documenting learning for when completing Leetcode challenges.
+Documenting my code and learning for Leetcode challenges.
