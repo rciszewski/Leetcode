@@ -7,6 +7,8 @@ The 2 for loops approach checks the values in each index of the array to determi
 
 The Map data structure increases efficiency through a faster lookup time by only having to iterate through the array once. While looping through the input array, the function checks if the value needed is in the MAP data structure. If it is not and it's not a duplicate value, it will save the number and index location in the data structure as key-value pairs.
 
+-------------------------------------------------------------
+
 Problem:
 Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.
 
