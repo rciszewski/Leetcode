@@ -1,5 +1,8 @@
 Learning Summary:
-
+ - Used a for loop to iterate one by one through the string of roman numerals using 2 pointers (1 at the current index and the second at the current index + 1);
+ - Used an object to store the values of each roman numeral and accessed it using bracket notation like an array and combined it with the current input.
+ - Initiated a result variable to 0 and updated it with an if statement for each iteration of the input string of roman numerals.
+ - Used the if statement to subtract and add the roman numerals based on if the current roman numeral was less than or equal to/greater the next one in the string.
 
 Problem description:
 Roman numerals are represented by seven different symbols: I, V, X, L, C, D and M.
