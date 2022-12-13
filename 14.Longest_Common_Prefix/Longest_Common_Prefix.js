@@ -1,7 +1,7 @@
 const words = ['splash', 'spleen', 'split'];
 
 function displayCommonPrefix(listArray){
-  if(strs === null || strs.length == 0) return ""; //return empty string if no data or an empty string was inputted
+  if(listArray === null || listArray.length == 0) return ""; //return empty string if no data or an empty string was inputted
 
   let prefix = ''; //intialize a variable to store the common prefix;
 
@@ -15,3 +15,5 @@ function displayCommonPrefix(listArray){
   }
   return prefix;
 }
+
+console.log(displayCommonPrefix(words));
