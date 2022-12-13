@@ -1,5 +1,6 @@
 Learning Summary:
-
+- used 2 for loops to hold the each letter of the 1st word constant while checking against the the letters in the same index of other words in the array.
+- used double brackets to access the first array and then each individual character in the string of words
 
 Problem Description:
 Write a function to find the longest common prefix string amongst an array of strings.
