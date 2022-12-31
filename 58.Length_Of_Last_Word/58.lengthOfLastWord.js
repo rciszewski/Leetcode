@@ -8,7 +8,7 @@ var lengthOfLastWord = function(s) {
     if(typeof sArray[i] === "string" && sArray[i].length > 0){
       lastWord = sArray[i];
       length = sArray[i].length;
-      return `The last word is ${lastWord} with a length of ${length} letters`;
+      return `The last word is ${lastWord}, and it has ${length} letters`;
     } 
   }
   return `There are no words inputted`;
