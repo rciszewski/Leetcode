@@ -13,8 +13,6 @@ function convert9s(digits){
       return digits;
     } else if(digits[i] == 9 && i > 0){
       digits[i] = 0;
-    } else if(digits[i] == 9 && i > 0){
-      digits[i] = 0;
     } else {
         digits[i] = 0;
         digits.splice(0,0,1);
